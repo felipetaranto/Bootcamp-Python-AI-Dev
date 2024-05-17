@@ -1,5 +1,5 @@
 # Desafios-Bootcamp-DIO
-Lista dos Desafios realizados durante o **Bootcamp Python AI Backend Developer** da **DIO**
+📑 Lista dos Desafios realizados durante o **Bootcamp Python AI Backend Developer** da **DIO**
 
 | Nome   | Tipo       | Descrição                           |
 | :----------: | :---------: | :----------------------------------:|

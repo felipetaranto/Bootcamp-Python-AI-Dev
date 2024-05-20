@@ -39,7 +39,7 @@ classDiagram
         -nome : str
         -data_nascimento : date
     }
-    namespace Operações{
+    namespace Operacoes{
 
         class Deposito{
             -valor : float

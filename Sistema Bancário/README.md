@@ -1,6 +1,14 @@
 # **SISTEMA BANCÁRIO**
 Desafio de Projeto do Bootcamp Python AI Backend Developer
 
+## 💲v4.0
+- Implementar um Decorador de log aplicado a todas as funções de transações
+    -  Este decorador decorador deve registrar a data e hora de cada transação bem como o tipo de transação.
+-  Criar um Gerador que permita iterar sobre as transações de uma conta e retorne uma a uma, as transações que foram realizadas.
+    - Este gerador deve filtrar as transações baseadas no seu tipo (ex: apenas saques, apenas depóssitos etc).
+-  Implemente um Iterador personalizado "ContaIterador" que permita iterar sobre todas as contas do banco.
+    - Deve retornar informações básicas de cada conta (n°, saldo atual, etc).
+
 ## 💲v3.0
 Objetivos:
 - **Parte 1**
